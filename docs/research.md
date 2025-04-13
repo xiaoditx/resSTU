@@ -105,6 +105,7 @@
 
 [编程语言发展简史][1]
 [作为程序员必须知道的编程语言编年史][2]
+[百度百科-汇编语言][3]
 
 ### 声明
 
@@ -113,3 +114,5 @@
 [1]:https://blog.csdn.net/lywstuding/article/details/123216486
 
 [2]:https://www.runoob.com/w3cnote/history-of-programming-languages-must-know.html
+
+[3]:https://baike.baidu.com/item/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80/61826
