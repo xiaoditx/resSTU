@@ -1,0 +1,6 @@
+# 易语言
+*.e linguist-language=E
+# 文言
+*.wy linguist-language=WenYan
+# asm
+*.s linguist-language=Asm
