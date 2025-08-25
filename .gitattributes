@@ -4,3 +4,5 @@
 *.wy linguist-language=WenYan
 # asm
 *.s linguist-language=Asm
+# 由于是文档仓库所以给Markdown识别一下
+*.md linguist-language=Markdown
